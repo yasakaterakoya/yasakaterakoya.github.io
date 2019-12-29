@@ -52,6 +52,29 @@ h1 {
 
 }
 
+img {
+  padding: 10px;
+}
+
+.fee {
+  background-color: #90ee90;
+  padding: 10px 10px 10px 10px;
+}
+
+
+.fee li {
+  color: #ff1493;
+}
+
+.empty{
+  padding-bottom: 100px;
+}
+
+  padding: 10px 10px;
+  background-color: #98fb98;
+
+}
+
 .fee {
   background-color: #90ee90;
   padding: 10px 10px 10px 10px;
