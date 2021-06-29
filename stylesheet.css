@@ -67,7 +67,16 @@ img {
 }
 
 .empty{
+  padding: 10px 10px 10px 10px;
+}
+
+.koshu{
   padding-bottom: 100px;
+  background-color: #90ee90;
+}
+
+.koshu li{
+  color: #ff1493;
 }
 
 .btn-square {
